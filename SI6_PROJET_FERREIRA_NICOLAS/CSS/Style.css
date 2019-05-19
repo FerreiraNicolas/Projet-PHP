@@ -1,0 +1,49 @@
+
+.contour {
+border: 3px solid black;
+background-color: #000000;
+
+
+
+}
+h5 {
+	text-align: left;
+	text-decoration: underline;
+
+}
+.souligne {
+	text-decoration: underline;
+}
+h4{
+	color: white;
+
+}
+
+.imag {
+
+  width: 120px;
+  float: left;
+}
+
+.droit{
+	float: right;
+}
+
+body{
+	background-color: #DFDFDF;
+}
+
+a:link, a:visited {
+  background-color: grey;
+  color: white;
+  padding: 10px ;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+}
+
+a:hover, a:active {
+  background-color: red;
+}
